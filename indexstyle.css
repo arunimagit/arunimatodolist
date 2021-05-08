@@ -1,0 +1,15 @@
+#lists{
+    color:red;
+    font-size:large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#lists:hover{
+    color: white;
+}
+#welcome{
+    font-family: 'fantasy';
+    color: black;
+    margin-top: 30pt;
+    text align: center;
+}
